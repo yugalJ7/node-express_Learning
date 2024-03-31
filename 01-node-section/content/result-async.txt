@@ -1,0 +1,2 @@
+test 3 result : HELLO I AM SECOND FILE I HAVE NOTHING TO TELL BECAUSE I AM SECOND 
+ Putting it all together, the absolute variable will contain the absolute path to the file "test.txt" located within the "subfolder" directory, which is inside the "content" directory, all relative to the directory where the current module resides. The console.log(absolute) statement will print this absolute path to the console.
